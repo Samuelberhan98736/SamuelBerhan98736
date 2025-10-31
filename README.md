@@ -1,7 +1,9 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+My name is Samuel Berhan. I am currently a student at Georgia State University interested in Embedded Sytems and Hardware Engineering. 
+
+- 🌱 I’m currently learning computer vision, embedded systems ,advanced algorythms and advanced circuit design.
+- 👯 I’m looking to collaborate on any projects that involves low level programming.
 
 
 
