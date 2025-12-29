@@ -1,9 +1,11 @@
 ## Hi there 👋
 
-My name is Samuel Berhan. I am currently a student at Georgia State University interested in Embedded Sytems and Hardware Engineering. 
+My name is Samuel Berhan. I am currently a student at Georgia State University interested in Embedded Sytems. 
 
 - 🌱 I’m currently learning computer vision, embedded systems ,advanced algorythms .
 - 👯 I’m looking to collaborate on any projects that involves low level programming.
+
+- 
 
 
 
